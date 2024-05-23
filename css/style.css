@@ -1,7 +1,11 @@
 [class*=col-]{
     min-height: 80px;
-    /* background-color: blueviolet; */
+    background-color: royalblue;
     border: solid 2px rgb(255, 255, 255);
+}
+
+#section2{
+    margin-top: 40px;
 }
 
 .title{
