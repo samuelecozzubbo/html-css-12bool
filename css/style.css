@@ -41,3 +41,11 @@
     width: 100%;
     padding: 20px;
 }
+
+.blue-border{
+    border: solid 2px royalblue;
+}
+
+.no-border{
+    border: 0;
+}
